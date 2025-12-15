@@ -1,0 +1,7 @@
+{
+  "name": "PikaPatrol",
+  "description": "Find Pokemon card shops, events, and clubs near you using Google Maps Grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
